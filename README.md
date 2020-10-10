@@ -1,2 +1,2 @@
 # ShoeIdentifier
-Neural Network project that determines whether a shoe is from the right of left foot, as well as if it is female or male.
+Neural Network project that determines whether a shoe is from the right of left foot, as well as if it is female or male. This is done using a Convolutional Neural Network and the Cross Entropy loss function. 60 files of each data folder (Training, Test Women, Test Men) were uploaded as the total number of images for training was 1500, and 100 for both test sets. The code and several graphs are available in the notebook file.
